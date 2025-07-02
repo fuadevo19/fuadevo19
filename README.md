@@ -18,7 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fuadevo19&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuadevo19/fuadevo19/output/pacman-contribution-graph-dark.svg">
